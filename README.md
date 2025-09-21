@@ -1,4 +1,4 @@
-# Social Media Content Analyzer
+# Data Analyzer
 
 A web-based tool that analyzes social media content and extracts various patterns using regular expressions. This tool helps identify and display different elements commonly found in social media posts.
 
@@ -56,7 +56,7 @@ The project uses:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/social-media-content-analyzer.git
+git clone https://github.com/yourusername/data-analyzer.git
 ```
 
 2. Open `index.html` in your preferred web browser
